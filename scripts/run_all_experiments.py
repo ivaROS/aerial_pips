@@ -87,7 +87,7 @@ def get_scenario_tasks(scenarios, set_size, num_sets, show_gazebo, record_rosbag
 
 if __name__ == "__main__":
     data_dir = "~/simulation_data"      #Root directory for recorded data
-    record_rosbag = True                #Should a rosbag be recorded containing details about each run? See launch/aerial_pips.launch for recorded topics
+    record_rosbag = True                #Should a rosbag be recorded containing details about each run? See 'nav_quadrotor/launch/aerial_pips.launch for recorded topics'
     show_gazebo = True                  #Display Gazebo's GUI while running experiments?
     scenarios = ['hall_obstacle_course', 'demo_gap']    #Which scenarios should be run?
     set_size = 25                        #How many times should each scenario be run before switching to the next?
