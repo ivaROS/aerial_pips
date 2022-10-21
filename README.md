@@ -3,7 +3,7 @@ WIP instructions for running the experiments in our ICRA 2023 submission: _Aeria
 Checking_. 
 
 ## Setting up
-Follow [these instructions](https://github.com/ivalab/NavBench/master/ICRA2023/README.md) to setup the necessary workspace and dependencies.
+Follow [these instructions](https://github.com/ivalab/NavBench/tree/master/ICRA2023) to setup the necessary workspace and dependencies.
 
 Be sure to source your new workspace (and any `venv` if necessary)
 
